@@ -15,7 +15,7 @@ func (e *MyError) Error() string {
 	return fmt.Sprintf("at %v, %s", e.When, e.What)
 }
 
-// run ...
+run ...
 func run() error {
 	return &MyError{
 		time.Now(),
