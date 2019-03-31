@@ -1,7 +1,7 @@
-* progression [4/6]
+* progression [5/6]
 ** DONE Welcome
 ** DONE Packages, variables, and functions
 ** DONE Flow control statements: for, if, else, swich and defer
 ** DONE More types: structs, slices, and maps
-** TODO Method and interfaces
+** DONE Method and interfaces
 ** TODO Concurrency
